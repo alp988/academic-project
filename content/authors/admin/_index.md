@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jaroslaw (Jarek) Kantorowicz
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Leiden University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Law & Economics
+    institution: University of Hamburg, University of Bologna and Erasmus University Rotterdam
+    year: 2015
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:j.j.kantorowicz@fgga.leidenuniv.nl".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Jarek_Kantor
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=fxtBwZ4AAAAJ&hl=pl&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jaroslaw Kantorowicz is an assistant professor at the Institute of Security and Global Affairs and at the department of Economics (Institute of Tax Law and Economics).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He obtained his PhD (summa cum laude) from the European Doctorate in Law & Economics program, provided jointly by Hamburg, Rotterdam and Bologna. Previously, he was a researcher and lecturer at Erasmus University Rotterdam. Jaroslaw worked for multiple projects, commissioned among others by the OECD, European Commission and European Parliament. His broad areas of expertise include global governance, (international) political economy, institutional economics, fiscal policy, and microeconometrics.
